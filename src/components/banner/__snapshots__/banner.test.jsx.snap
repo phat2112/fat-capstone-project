@@ -1,0 +1,148 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Food > renders Food 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="css-181htmr"
+      >
+        <div
+          class="css-1431304"
+        >
+          <h2
+            class="chakra-heading css-zpxsoh"
+          >
+            Little Lemon
+          </h2>
+          <p
+            class="chakra-text css-ied8cl"
+          >
+            Chicago
+          </p>
+          <div
+            class="css-1p3z0y3"
+          />
+          <p
+            class="chakra-text css-1bqavjz"
+          >
+            We are a family owned Mediterranean restaurant, 
+            <br />
+             focused on traditional recipes served with a modern twist.
+          </p>
+          <div
+            class="css-1p3z0y3"
+          />
+          <button
+            class="chakra-button css-1gi1kic"
+            type="button"
+          >
+            Reverse Table
+          </button>
+        </div>
+        <img
+          alt="logo"
+          class="chakra-image css-1t3q4bp"
+          src="/src/assets/banner.jpg"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="css-181htmr"
+    >
+      <div
+        class="css-1431304"
+      >
+        <h2
+          class="chakra-heading css-zpxsoh"
+        >
+          Little Lemon
+        </h2>
+        <p
+          class="chakra-text css-ied8cl"
+        >
+          Chicago
+        </p>
+        <div
+          class="css-1p3z0y3"
+        />
+        <p
+          class="chakra-text css-1bqavjz"
+        >
+          We are a family owned Mediterranean restaurant, 
+          <br />
+           focused on traditional recipes served with a modern twist.
+        </p>
+        <div
+          class="css-1p3z0y3"
+        />
+        <button
+          class="chakra-button css-1gi1kic"
+          type="button"
+        >
+          Reverse Table
+        </button>
+      </div>
+      <img
+        alt="logo"
+        class="chakra-image css-1t3q4bp"
+        src="/src/assets/banner.jpg"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

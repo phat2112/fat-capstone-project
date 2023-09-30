@@ -1,0 +1,34 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Navbar > renders Navbar 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1q16c1q"
+  >
+    <img
+      alt="logo"
+      class="chakra-image css-0"
+      src="/src/assets/Logo.png"
+    />
+    <div
+      class="css-1xmwlc4"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        Home
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Order
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Cart
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

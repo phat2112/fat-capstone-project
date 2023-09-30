@@ -1,0 +1,252 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Food > renders Food 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="css-17ewkdr"
+      >
+        <h2
+          class="chakra-heading css-xi606m"
+        >
+          Dishes
+        </h2>
+        <div
+          class="chakra-tabs css-79elbk"
+          tabindex="0"
+        >
+          <div
+            aria-orientation="horizontal"
+            class="chakra-tabs__tablist css-k008qs"
+            role="tablist"
+          >
+            <button
+              aria-controls="tabs-:r0:--tabpanel-0"
+              aria-disabled="false"
+              aria-selected="true"
+              class="chakra-tabs__tab css-zzbl89"
+              data-index="0"
+              id="tabs-:r0:--tab-0"
+              role="tab"
+              tabindex="0"
+              type="button"
+            >
+              all
+            </button>
+            <button
+              aria-controls="tabs-:r0:--tabpanel-1"
+              aria-disabled="false"
+              aria-selected="false"
+              class="chakra-tabs__tab css-zzbl89"
+              data-index="1"
+              id="tabs-:r0:--tab-1"
+              role="tab"
+              tabindex="-1"
+              type="button"
+            >
+              A la carte
+            </button>
+            <button
+              aria-controls="tabs-:r0:--tabpanel-2"
+              aria-disabled="false"
+              aria-selected="false"
+              class="chakra-tabs__tab css-zzbl89"
+              data-index="2"
+              id="tabs-:r0:--tab-2"
+              role="tab"
+              tabindex="-1"
+              type="button"
+            >
+              Mains
+            </button>
+            <button
+              aria-controls="tabs-:r0:--tabpanel-3"
+              aria-disabled="false"
+              aria-selected="false"
+              class="chakra-tabs__tab css-zzbl89"
+              data-index="3"
+              id="tabs-:r0:--tab-3"
+              role="tab"
+              tabindex="-1"
+              type="button"
+            >
+              Salad
+            </button>
+            <button
+              aria-controls="tabs-:r0:--tabpanel-4"
+              aria-disabled="false"
+              aria-selected="false"
+              class="chakra-tabs__tab css-zzbl89"
+              data-index="4"
+              id="tabs-:r0:--tab-4"
+              role="tab"
+              tabindex="-1"
+              type="button"
+            >
+              Desserts
+            </button>
+          </div>
+        </div>
+        <div
+          class="chakra-spinner css-1y7joxr"
+        >
+          <span
+            class="css-8b45rq"
+          >
+            Loading...
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="css-17ewkdr"
+    >
+      <h2
+        class="chakra-heading css-xi606m"
+      >
+        Dishes
+      </h2>
+      <div
+        class="chakra-tabs css-79elbk"
+        tabindex="0"
+      >
+        <div
+          aria-orientation="horizontal"
+          class="chakra-tabs__tablist css-k008qs"
+          role="tablist"
+        >
+          <button
+            aria-controls="tabs-:r0:--tabpanel-0"
+            aria-disabled="false"
+            aria-selected="true"
+            class="chakra-tabs__tab css-zzbl89"
+            data-index="0"
+            id="tabs-:r0:--tab-0"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            all
+          </button>
+          <button
+            aria-controls="tabs-:r0:--tabpanel-1"
+            aria-disabled="false"
+            aria-selected="false"
+            class="chakra-tabs__tab css-zzbl89"
+            data-index="1"
+            id="tabs-:r0:--tab-1"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            A la carte
+          </button>
+          <button
+            aria-controls="tabs-:r0:--tabpanel-2"
+            aria-disabled="false"
+            aria-selected="false"
+            class="chakra-tabs__tab css-zzbl89"
+            data-index="2"
+            id="tabs-:r0:--tab-2"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            Mains
+          </button>
+          <button
+            aria-controls="tabs-:r0:--tabpanel-3"
+            aria-disabled="false"
+            aria-selected="false"
+            class="chakra-tabs__tab css-zzbl89"
+            data-index="3"
+            id="tabs-:r0:--tab-3"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            Salad
+          </button>
+          <button
+            aria-controls="tabs-:r0:--tabpanel-4"
+            aria-disabled="false"
+            aria-selected="false"
+            class="chakra-tabs__tab css-zzbl89"
+            data-index="4"
+            id="tabs-:r0:--tab-4"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            Desserts
+          </button>
+        </div>
+      </div>
+      <div
+        class="chakra-spinner css-1y7joxr"
+      >
+        <span
+          class="css-8b45rq"
+        >
+          Loading...
+        </span>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

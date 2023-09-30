@@ -1,9 +1,19 @@
 import { useState } from "react";
+import { Banner, Food, Footer, FormReservation, Navbar } from "./components";
 
 function App() {
+  const [isOpenReservation, setIsOpenReservation] = useState(false);
+  const onOpenReservationDialog = () => setIsOpenReservation(true);
   return (
     <>
-      <h1 className="text-3xl text-red-600 font-bold">hello</h1>
+      <Navbar />
+      <Banner onOpenReservationDialog={onOpenReservationDialog} />
+      <Food />
+      <Footer />
+      <FormReservation
+        isOpen={isOpenReservation}
+        onClose={() => setIsOpenReservation(false)}
+      />
     </>
   );
 }
